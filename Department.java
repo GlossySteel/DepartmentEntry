@@ -1,6 +1,5 @@
 /* Assignment #: 4
  Name: Joseph Kharzo
- StudentID: 1218555299
  Lecture: TTH 1:30-2:45
  Time spent: 25 minutes
 Description: This class creates a department. This is accomplished by assigning the department a name, a certain amount of faculty members, a university name, and a specific faculty member. The Faculty class has an aggregated relationship with this class.
