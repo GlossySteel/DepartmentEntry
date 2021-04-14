@@ -1,6 +1,5 @@
 /* Assignment #: 4
  Name: Joseph Kharzo
- StudentID: 1218555299
  Lecture: TTH 1:30-2:45
  Time spent: 15 minutes
 Description: This class creates a faculty member, giving them a first name, last name, and an academic level.
